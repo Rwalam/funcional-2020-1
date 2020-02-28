@@ -1,4 +1,4 @@
-doubleMe x = x + x
+main = doubleMe x = x + x
 
 doubleUs x y = x*2 + y*2 
 
